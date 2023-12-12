@@ -1,7 +1,15 @@
-# Super Sticky Notes project
+# Super Sticky Notes project (clean code)
 **Skillcrush Intro to JS React course**
 
 Description: An interactive sticky note app built with JavaScript React. The app allows users to add, delete, and edit notes and saves content between sessions. The first challenge was to enable to app to accept user input to add, edit, and delete notes. The second challenge was to utilize the browser’s local storage to save the user’s data across different sessions.
+
+(Project was initially built in CodeSandbox.)
+
+Preview: <https://xtywww.csb.app/>
+
+Sandbox <https://codesandbox.io/p/sandbox/super-sticky-notes-clean-xtywww>.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
